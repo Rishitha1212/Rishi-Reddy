@@ -1,0 +1,11 @@
+apiVersion: v1
+data:
+  citizen: US
+  name: rishi
+kind: ConfigMap
+metadata:
+  creationTimestamp: "2025-01-16T06:29:38Z"
+  name: test
+  namespace: default
+  resourceVersion: "17068"
+  uid: 9de778c7-3bc6-4a06-9b2c-5c425095b3e1
